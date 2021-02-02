@@ -1,0 +1,25 @@
+.flexbox-container-1{
+    border: 3px solid rgb(8, 241, 39);
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.flexbox-item{
+    width: 50px;
+    border: 3px solid rgb(17, 1, 1);
+    background-color: aliceblue;
+}
+.flexbox-item-1{
+    min-height: 100px;
+    border: 3px solid rgb(24, 10, 221);
+}
+.flexbox-item-2{
+    min-height: 100px;
+    border: 3px solid rgb(221, 10, 10);
+}
+.flexbox-item-3{
+    min-height: 100px;
+    border: 3px solid rgb(179, 241, 7);
+    
+}
