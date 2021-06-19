@@ -11,8 +11,6 @@ export class HeaderComponent implements OnInit {
 
   onNavbar(feature :string){
     this.feacturesSelect2.emit(feature);
-    console.log("gus 2");
-    console.log(feature);
 
   }
  
